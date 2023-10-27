@@ -1,8 +1,8 @@
 # Week Date Picker
 
-A calendar picker based on Flutter CalendarDatePicker, with support for single date picker.
+A calendar picker with support for single date picker also you can scroll between weeks.
 
-<img src="https://drive.google.com/file/d/1pdidpHbV2_rbPx2_C6hWsXRopUAcbnsK/view?usp=sharing">
+<img src="https://raw.githubusercontent.com/punitgsolanki/week_date_picker/main/assets/img_demo.png">
 
 ## Installing
 
