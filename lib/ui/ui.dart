@@ -1,0 +1,1 @@
+export 'week_date_picker/week_date_picker_view.dart';
